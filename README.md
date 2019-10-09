@@ -24,12 +24,12 @@ This library uses HTTP/JSON Firebase Cloud Messaging connection server protocol
 ## Usage
 
 ```
-go get github.com/NaySoftware/go-fcm
+go get github.com/fajarriandaizy/gofcm
 ```
 
 ## Docs - go-fcm API
 ```
-https://godoc.org/github.com/NaySoftware/go-fcm
+https://godoc.org/github.com/fajarriandaizy/gofcm
 ```
 
 ####  Firebase Cloud Messaging HTTP Protocol Specs
@@ -105,7 +105,7 @@ package main
 
 import (
 	"fmt"
-    "github.com/NaySoftware/go-fcm"
+    "github.com/fajarriandaizy/gofcm"
 )
 
 const (
@@ -147,7 +147,7 @@ package main
 
 import (
 	"fmt"
-    "github.com/NaySoftware/go-fcm"
+    "github.com/fajarriandaizy/gofcm"
 )
 
 const (
